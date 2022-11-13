@@ -1,2 +1,2 @@
-# educational_project_django-master
+# project_django
  
